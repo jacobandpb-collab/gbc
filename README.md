@@ -6,3 +6,4 @@ gbc
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
+- [comp1238.md](https://jacobandpb-collab.github.io/gbc/comp1238.md)
